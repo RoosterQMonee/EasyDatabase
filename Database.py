@@ -1,3 +1,5 @@
+# i made this in like 2 mins
+
 import json
 
 class database:
